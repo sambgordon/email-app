@@ -1,3 +1,5 @@
-# Ang-Gmail-Clone
+# Flank - An email app built with Angular by Sam Gordon
 
-Angular Mail app created from Thinkful.com tutorial.
+Angular email app.
+
+Preview: https://cdn.rawgit.com/sambgordon/flank-app/7814d1ea/index.html
