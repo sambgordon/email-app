@@ -1,0 +1,7 @@
+{
+  "from": "DevBySam",
+  "date": 1484118000000,
+  "subject": "What is MVC?",
+  "content": "<p><br /><h3>What is MVC?</h3> <br /> <strong>MVC</strong> stands for \"Model-View-Controller\", and is an architectural pattern for interactive web applications that splits an application into three parts: <br /><br />1. <strong>Model</strong> - The business logic (think of it as data stored in JSON objects). It manages the data of the application.<br />2. <strong>View</strong>   - The rendered html webpage; the UI. Think of it as the \"presentation\" of the model.<br />3. <strong>Controller</strong> - Accepts input and turns it into imperatives allowing manipulation of the model and view. <br /><br /><h3>Why use MVC?</h3><br />MVC has many features, such as server calls from the client-side (using built-in Angular HTTP services), a powerful solution to DOM manipulation, and 2-way data binding.<br /><br /><h3>Advantages of MVC</h3><br />An MVC application is separated into components, which make for low coupling. Angular also provides many built-in services, which are objects used for very specific tasks, i.e. the <strong>$parse</strong> service, which allows you to convert an Angular Expression into a function. </p>",
+  "id": 10824581
+}

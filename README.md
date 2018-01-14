@@ -1,2 +1,3 @@
-# email-app
-Messing with angular
+# Ang-Gmail-Clone
+
+Angular Mail app created from Thinkful.com tutorial.

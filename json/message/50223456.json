@@ -1,0 +1,8 @@
+{
+  "from": "DevBySam",
+  "date": 1499752800000,
+  "subject": "Details about this app",
+  "content": "<br /><h3>Hi! This is a simple email app built using Angular.  It functions in a manner very similar to Gmail.</h3> <br /><h4>You can:</h4><br /> &middot; Read emails <br /> &middot; Delete emails <br /> &middot; Search email by title <br /><br />The emails are stored locally as JSON files. The search capability is handled by an Angular service. <br />There are two views: <br /><br />1. The <strong>inbox</strong> view (default view), and <br />2. The <strong>email</strong> view (injected once you click on an email.)<br /><br /><h3>Thanks for stopping by!</h3> <p>Please check out my other work as well:</p>&middot; <a href='https://rawgit.com/sambgordon/Journey-Static/master/index.html' target='_blank' class='visited'>Journey HTML5 Theme</a> <br />&middot; <a href='http://www.devbysam.com/portfolio-item/codepen/' target='_blank' class='visited'> Codepen Projects</a> <br /> ",
+  "id": 50223456
+}
+
