@@ -18,9 +18,15 @@
     "id": 90345551
   },
   {
-    "from": "Marley \"Javascript\" Jackson",
+    "from": "John Jackson",
     "date": 1481698800000,
     "subject": "ECMAScript 6: What’s Different?",
     "id": 74838344
+  },
+    {
+    "from": "Jack Johnson",
+    "date": 1481698800000,
+    "subject": "ECMAScript 6: What’s Different?",
+    "id": 74838345
   }
 ]
