@@ -3,6 +3,6 @@
 
 # Flank
 
-An email app built with Angular by Sam Gordon.
+An email app built in Angular.
 
 [Preview](https://cdn.rawgit.com/sambgordon/flank-app/7814d1ea/index.html)
